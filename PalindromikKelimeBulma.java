@@ -29,20 +29,7 @@ public class PalindromikKelimeBulma {
             System.out.println( "* " + userWord + " *" + "  palindoromik DEGILDIR.");
         }
 
-
-
-       /*
-          int i = 0, j = str.length() - 1;
-        while (i < j) {
-            if (str.charAt(i) != str.charAt(j))
-                return false;
-            i++;
-            j--;
-        }
-        */
-
-
-
+        
 
     }
 }
